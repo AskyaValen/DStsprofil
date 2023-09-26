@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/ok"
+    tools:context=".MainActivity2">
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="319dp"
+        android:layout_height="35dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginBottom="8dp"
+        android:background="#FFEB3B"
+        android:text="@string/profil_siswa"
+        android:textAlignment="center"
+        android:textSize="20sp"
+        android:textStyle="bold|italic"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0"
+        tools:ignore="TextSizeCheck" />
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="209dp"
+        android:layout_height="226dp"
+        android:importantForAccessibility="no"
+        tools:ignore="MissingConstraints,ImageContrastCheck"
+        tools:layout_editor_absoluteX="101dp"
+        tools:layout_editor_absoluteY="64dp"
+        tools:srcCompat="@drawable/iya" />
+
+    <TextView
+        android:id="@+id/textView10"
+        android:layout_width="339dp"
+        android:layout_height="48dp"
+        android:background="#4CAF50"
+        android:text="@string/nis_2233279"
+        android:textSize="24sp"
+        tools:layout_editor_absoluteX="25dp"
+        tools:layout_editor_absoluteY="389dp"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:id="@+id/textView11"
+        android:layout_width="338dp"
+        android:layout_height="47dp"
+        android:background="#4CAF50"
+        android:text="@string/kelas_xi_pplg_2"
+        android:textSize="24sp"
+        tools:layout_editor_absoluteX="25dp"
+        tools:layout_editor_absoluteY="466dp"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:id="@+id/textView12"
+        android:layout_width="335dp"
+        android:layout_height="64dp"
+        android:background="#4CAF50"
+        android:text="@string/alamat_karang_malang_rt_04_rw_03_gemulak_sayung_demak"
+        android:textSize="24sp"
+        tools:ignore="MissingConstraints,TextSizeCheck"
+        tools:layout_editor_absoluteX="25dp"
+        tools:layout_editor_absoluteY="532dp" />
+
+    <TextView
+        android:id="@+id/textView13"
+        android:layout_width="333dp"
+        android:layout_height="44dp"
+        android:background="#4CAF50"
+        android:text="@string/ttl_demak_21_agustus_2007"
+        android:textSize="24sp"
+        tools:ignore="MissingConstraints,TextSizeCheck"
+        tools:layout_editor_absoluteX="25dp"
+        tools:layout_editor_absoluteY="619dp" />
+
+    <TextView
+        android:id="@+id/textView14"
+        android:layout_width="330dp"
+        android:layout_height="46dp"
+        android:background="#4CAF50"
+        android:text="@string/agama_"
+        android:textSize="24sp"
+        tools:ignore="MissingConstraints,TextSizeCheck"
+        tools:layout_editor_absoluteX="28dp"
+        tools:layout_editor_absoluteY="679dp" />
+
+    <TextView
+        android:id="@+id/textView9"
+        android:layout_width="339dp"
+        android:layout_height="51dp"
+        android:background="#4CAF50"
+        android:text="@string/nama_lengkap_askya_valencia"
+        android:textSize="24sp"
+        tools:ignore="MissingConstraints,TextSizeCheck"
+        tools:layout_editor_absoluteX="25dp"
+        tools:layout_editor_absoluteY="317dp" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

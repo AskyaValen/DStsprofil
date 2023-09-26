@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Sts profil</string>
+    <string name="nip_19790924202211003">NIP :19790924202211003</string>
+    <string name="mata_pelajaran_pkn">Mata Pelajaran: PKN</string>
+    <string name="alamat_jamus_rt_18_rw_05_kecamatan_mranggen">Alamat: Jamus Rt 18 Rw 05 Kecamatan Mranggen</string>
+    <string name="ttl_demak_24_sebtember_1979">TTL: Demak, 24 Sebtember 1979</string>
+    <string name="agama_islam">Agama: Islam</string>
+    <string name="profil_guru">PROFIL GURU</string>
+    <string name="nama_lengkap_hendro_ardiyanto">Nama Lengkap: Hendro Ardiyanto</string>
+    <string name="nis_2233279">NIS: 2233279</string>
+    <string name="kelas_xi_pplg_2">Kelas: XI PPLG 2</string>
+    <string name="alamat_karang_malang_rt_04_rw_03_gemulak_sayung_demak">Alamat: Karang Malang RT 04 RW 03 Gemulak Sayung Demak</string>
+    <string name="agama_">Agama: Islam</string>
+    <string name="ttl_demak_21_agustus_2007">TTL: Demak, 21 agustus 2007</string>
+    <string name="profil_siswa">PROFIL SISWA</string>
+    <string name="nama_lengkap_askya_valencia">Nama Lengkap: Askya Valencia</string>
+    <string name="profilapp">PROFIL GURU</string>
+    <string name="siswaprofil">PROFIL SISWA</string>
+    <string name="teacher_profil_app">TEACHER PROFIL APP</string>
+    <string name="profilguru">PROFIL GURU</string>
+</resources>
